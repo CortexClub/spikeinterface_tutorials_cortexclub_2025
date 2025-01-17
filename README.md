@@ -1,4 +1,4 @@
-# SpikeInterface Tutorials for Oxford COrtex ClubSpike - January 2025
+# SpikeInterface Tutorials for Oxford Cortex Club - January 2025
 
 Material for the spike sorting/SpikeInterface training day.
 
@@ -15,9 +15,6 @@ Material for the spike sorting/SpikeInterface training day.
 
 The best is to start with the **overview_tutorials**
 
-Then you can spent some times on more details with more notebooks:
-
-
   * Object interaction cookbook 15min
   * Probe handling 15min
   * Preprocessing  20min
@@ -31,14 +28,12 @@ Then you can spent some times on more details with more notebooks:
 
 ## Installation
 
-This procedure use the new [uv fast installer for python](https://github.com/astral-sh/uv).
+This procedure uses the new [uv fast installer for python](https://github.com/astral-sh/uv).
 
 **Procedure for Windows/Apple/Linux:**
 
-
-
-1. On macOS and Linux. Open a terminal and do $ curl -LsSf https://astral.sh/uv/install.sh | sh
-1. On windows. Open a powershell and do powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+1. On MacOS and Linux. Open a terminal and do $ curl -LsSf https://astral.sh/uv/install.sh | sh
+1. On Windows. Open a powershell and do powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 2. exit session and log again.
 3. Go to this page https://github.com/samuelgarcia/school_spike_sorting_neuralnet_saclay_2024
 4. Click on **"code"** (green button) and download the zip. Etxract the zip.
